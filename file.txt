@@ -1,0 +1,1 @@
+login=Vladomer87;id=12345;
